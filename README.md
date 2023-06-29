@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://raw.githubusercontent.com/happybear1015/happybear1015/main/assets/github-contribution-grid-snake.svg)
+
 <!--
 **happybear1015/happybear1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
